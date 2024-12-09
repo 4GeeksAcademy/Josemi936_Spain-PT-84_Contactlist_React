@@ -1,3 +1,39 @@
 /* 
     General Styles
 */
+.mainContainer{
+    display: flex;
+    background-color: black;
+    border-radius: 20px;
+}
+.containerForm {
+    background-color: #191919;
+    border-radius: 20px;
+}
+.card {
+    border-radius: 20px;
+}
+
+h1 {
+    
+    color: white;
+}
+h2{
+    color:white;
+    padding-top: 5px;
+}
+label{
+    margin-left: 50px;
+    color:white
+}
+input{
+    padding-left: 5px;
+  margin-left: 50px;
+}
+.edit{
+    margin: 10px;
+}
+.card{
+    background-color: #191919;
+    color:white
+}
